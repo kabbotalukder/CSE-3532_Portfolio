@@ -16,6 +16,7 @@ Welcome to my personal portfolio website! This project showcases my skills, proj
 1. **Home**
 2. **About**
 3. **Projects**
+3. **Skills**
 4. **Contact**
 
 ## Technologies Used
